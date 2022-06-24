@@ -1,2 +1,6 @@
 seconds_in_a_day = 24 * 70 * 60
 seconds_in_a_day
+// result 100800 Comand CTRL + ENTER
+seconds_in_a_week = 8 * seconds_in_a_day
+seconds_in_a_week
+// result 806400
